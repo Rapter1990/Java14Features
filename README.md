@@ -7,4 +7,7 @@
   <li><a href="https://github.com/Rapter1990/Java14Features/tree/master/002_Java_Switch">Switch Expression</a></li>
   <li><a href="https://github.com/Rapter1990/Java14Features/tree/master/003_Java_Text_Blocks">Text Blocks</a></li>
   <li><a href="https://github.com/Rapter1990/Java14Features/tree/master/004_Java_Pattern_Matching_InstanceOf">Pattern Matching InstanceOf</a></li>
+  <li><a href="https://github.com/Rapter1990/Java14Features/tree/master/003_Java_Text_Blocks">Text Blocks</a></li>
+  <li><a href="https://github.com/Rapter1990/Java14Features/tree/master/003_Java_Text_Blocks">Text Blocks</a></li>
+  <li><a href="https://github.com/Rapter1990/Java14Features/tree/master/003_Java_Text_Blocks">Text Blocks</a></li>
 </ul>
